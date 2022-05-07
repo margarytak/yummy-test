@@ -1,0 +1,16 @@
+.contacts{
+    width: 1200px;
+    height: 200px;
+    padding: 15px;
+    background-color: aquamarine;
+    text-align: center;
+    &__name{
+        color: red;
+        font-size: 40px;
+    }
+    &__tel{
+color: blue;
+font-weight: 700;
+border: 2px solid blue;
+    }
+}
